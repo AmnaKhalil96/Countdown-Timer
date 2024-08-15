@@ -1,0 +1,22 @@
+{
+  "name": "sam3_countdown_timer",
+  "version": "1.0.0",
+  "description": "A simple Countdown-Timer with TypeScript, Node.js, Inquirer and Chalk",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
